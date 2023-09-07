@@ -1,0 +1,14 @@
+.gitignore
+.idea
+*.zip
+data
+data/**
+inventory-service-demo/target
+inventory-service-demo/.gitignore
+inventory-service-demo/.mvn
+order-service-demo/target
+order-service-demo/.gitignore
+order-service-demo/.mvn
+product-service-demo/target
+product-service-demo/.gitignore
+product-service-demo/.mvn

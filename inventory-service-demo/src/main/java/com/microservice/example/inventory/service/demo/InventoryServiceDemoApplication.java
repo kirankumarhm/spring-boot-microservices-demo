@@ -32,7 +32,7 @@ public class InventoryServiceDemoApplication {
 
 			Inventory inventory3 = Inventory.builder()
 					.skuCode("iPhone 13 Red")
-					.quantity(200)
+					.quantity(0)
 					.build();
 			inventoryRepository.save(inventory1);
 			inventoryRepository.save(inventory2);
